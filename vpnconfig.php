@@ -1,6 +1,6 @@
 {
   "baseURL": "https://uuvpn2026.top/api/v1/",
-  "baseDYURL": "https://你的订阅配置地址",
+  "baseDYURL": "https://api.gooapis.com/api/vpnnodes.php",
   "mainregisterURL": "https://uuvpn2026.top/#/register?code=",
   "paymentURL": "https://你的支付页面",
   "telegramurl": "https://t.me/你的频道",
