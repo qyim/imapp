@@ -1,17 +1,1 @@
-{
-  "baseURL": "https://uuvpn2026.top/api/v1/",
-  "baseDYURL": "https://api.gooapis.com/api/vpnnodes.php",
-  "mainregisterURL": "https://lelian.app/#/register?code=",
-  "paymentURL": "xxxxx",
-  "telegramurl": "https://t.me/fastlink",
-  "kefuurl": "https://gooapis.com/fastlink/",
-  "websiteURL": "https://gooapis.com/fastlink/",
-  "crisptoken": "5546c6ea-4b1e-41bc-80e4-4b6648cbca76",
-  "banners": [
-    "https://image.gooapis.com/api/images/12-11-56.png",
-    "https://image.gooapis.com/api/images/12-44-57.png",
-    "https://image.gooapis.com/api/images/12-47-03.png"
-  ],
-  "message": "OK",
-  "code": 1
-}
+{"baseURL":"https:\/\/uuvpn2026.top\/api\/v1\/","baseDYURL":"https:\/\/api.gooapis.com\/api\/vpnnodes.php","mainregisterURL":null,"paymentURL":"xxxxxx","telegramurl":null,"kefuurl":"","websiteURL":null,"crisptoken":null,"banners":["https:\/\/image.gooapis.com\/api\/images\/12-11-56.png","https:\/\/image.gooapis.com\/api\/images\/12-44-57.png","https:\/\/image.gooapis.com\/api\/images\/12-47-03.png"],"message":"OK","code":1}
